@@ -51,12 +51,22 @@ PyLibs
 # Exclude large binary artifacts
 #  * you can manage your artifacts also with test.guide (https://www.test-guide.info) and reference them via Playbooks
 Offline-FIUs
-Offline-Models
+Offline-Models=https://docs.google.com/document/d/10tN4-6vfqCl2jFHwXKsu0shviRb02X2ch3p_LcWOzq8/edit?usp=drivesdk
 Offline-SGBDs
-*.exe
-*.msi
+*.exehttps://docs.google.com/document/d/10tN4-6vfqCl2jFHwXKsu0shviRb02X2ch3p_LcWOzq8/edit?usp=drivesdk
+*.msihttps://www.instagram.com/xee_0_?igsh=c3p1Z2c3Z3Q1MHcz
 *.zip
 *.7z
+- [Smileys & Emotion](#smileys--emotion)
+- [People & Body](#people--body)
+- [Animals & Nature](#animals--nature)
+- [Food & Drink](#food--drink)
+- [Travel & Places](#travel--places)
+- [Activities](#activities)
+- [Objects](#objects)
+- [Symbols](#symbols)
+- [Flags](#flags)
+- [GitHub Custom Emoji](#github-custom-emoji)
 
 # Exclude default and custom temporary directories
 Backup_*
